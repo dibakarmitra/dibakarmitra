@@ -19,6 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Security Best Practices for Modern Applications](https://www.dibakarmitra.com/notes/web-security-best-practices)
+- [Web Security Best Practices for Modern Applications](https://www.dibakarmitra.com/notes/web-security-best-practices)
+- [Getting Started with Nextfolio](https://www.dibakarmitra.com/notes/getting-started)
+- [Getting Started with Nextfolio](https://www.dibakarmitra.com/notes/getting-started)
+- [Getting Started with Next.js 14](https://www.dibakarmitra.com/notes/getting-started-with-nextjs)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
