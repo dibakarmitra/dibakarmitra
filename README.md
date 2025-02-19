@@ -10,6 +10,7 @@ I'm a skilled Backend Developer specializing in crafting efficient and scalable 
 ### Languages and Frameworks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -49,4 +50,8 @@ I'm a skilled Backend Developer specializing in crafting efficient and scalable 
 <!-- BLOG-POST-LIST:END -->
 
 ---
-*Profile Views*: &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=dibakarmitra&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dibakarmitra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
+
