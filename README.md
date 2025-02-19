@@ -49,4 +49,4 @@ I'm a skilled Backend Developer specializing in crafting efficient and scalable 
 <!-- BLOG-POST-LIST:END -->
 
 ---
-*Profile views*: ![Profile Views](https://komarev.com/ghpvc/?username=dibakarmitra&label=Profile%20views&color=0e75b6&style=flat)
+**Profile views**: ![Profile Views](https://komarev.com/ghpvc/?username=dibakarmitra&label=Profile%20views&color=0e75b6&style=flat)
