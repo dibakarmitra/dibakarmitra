@@ -42,11 +42,11 @@ I'm a skilled Backend Developer specializing in crafting efficient and scalable 
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Databases in 2025: Choosing the Right Database for Your Project](https://www.dibakarmitra.com/notes/database-guide-2025)
+- [Building a Clean and Consistent Laravel API Response System](https://www.dibakarmitra.com/notes/laravel-api-response-system)
+- [Databases in 2025: Choosing the Right Database for Your Project](https://www.dibakarmitra.com/notes/database-guide-2025)
+- [Building a Clean and Consistent Laravel API Response System](https://www.dibakarmitra.com/notes/laravel-api-response-system)
 - [Laravel 12 – What&#39;s New &amp; How to Get Started](https://www.dibakarmitra.com/notes/laravel12)
-- [Laravel 12 – What&#39;s New &amp; How to Get Started](https://www.dibakarmitra.com/notes/laravel12)
-- [Web Security Best Practices for Modern Applications](https://www.dibakarmitra.com/notes/web-security-best-practices)
-- [Web Security Best Practices for Modern Applications](https://www.dibakarmitra.com/notes/web-security-best-practices)
-- [Getting Started with Nextfolio](https://www.dibakarmitra.com/notes/getting-started)
 <!-- BLOG-POST-LIST:END -->
 
 ---
