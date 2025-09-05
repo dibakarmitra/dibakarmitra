@@ -42,11 +42,11 @@ I'm a skilled Backend Developer specializing in crafting efficient and scalable 
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Ownership Package – Simplify Model Ownership in Laravel](https://www.dibakarmitra.com/notes/laravel-ownership)
+- [Laravel Ownership Package – Simplify Model Ownership in Laravel](https://www.dibakarmitra.com/notes/laravel-ownership)
 - [Building a Clean and Consistent Laravel API Response System](https://www.dibakarmitra.com/notes/laravel-api-response-system)
 - [Building a Clean and Consistent Laravel API Response System](https://www.dibakarmitra.com/notes/laravel-api-response-system)
 - [Laravel 12 – What&#39;s New &amp; How to Get Started](https://www.dibakarmitra.com/notes/laravel12)
-- [Laravel 12 – What&#39;s New &amp; How to Get Started](https://www.dibakarmitra.com/notes/laravel12)
-- [Web Security Best Practices for Modern Applications](https://www.dibakarmitra.com/notes/web-security-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 ---
