@@ -42,11 +42,11 @@ I'm a skilled Backend Developer specializing in crafting efficient and scalable 
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Activity Scope: Laravel Audit Trail Package](https://www.dibakarmitra.com/notes/activity-scope)
-- [Activity Scope: Laravel Audit Trail Package](https://www.dibakarmitra.com/notes/activity-scope)
-- [Config-Ship: Lightweight Configuration Resolver for Node.js](https://www.dibakarmitra.com/notes/config-ship-package)
-- [Config-Ship: Lightweight Configuration Resolver for Node.js](https://www.dibakarmitra.com/notes/config-ship-package)
-- [Laravel Dynamic Filters: A Comprehensive Guide to Flexible Query Building](https://www.dibakarmitra.com/notes/laravel-dynamic-filters)
+- [Activity Scope: Laravel Audit Trail Package](http://localhost:3000/notes/activity-scope)
+- [Activity Scope: Laravel Audit Trail Package](http://localhost:3000/notes/activity-scope)
+- [Config-Ship: Lightweight Configuration Resolver for Node.js](http://localhost:3000/notes/config-ship-package)
+- [Config-Ship: Lightweight Configuration Resolver for Node.js](http://localhost:3000/notes/config-ship-package)
+- [Laravel Dynamic Filters: A Comprehensive Guide to Flexible Query Building](http://localhost:3000/notes/laravel-dynamic-filters)
 <!-- BLOG-POST-LIST:END -->
 
 ---
