@@ -43,10 +43,10 @@ I'm a skilled Backend Developer specializing in crafting efficient and scalable 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Activity Scope: Laravel Audit Trail Package](http://localhost:3000/notes/activity-scope)
+- [Activity Scope: Laravel Audit Trail Package](http://localhost:3000/notes/activity-scope)
+- [Config-Ship: Lightweight Configuration Resolver for Node.js](http://localhost:3000/notes/config-ship-package)
 - [Config-Ship: Lightweight Configuration Resolver for Node.js](http://localhost:3000/notes/config-ship-package)
 - [Laravel Dynamic Filters: A Comprehensive Guide to Flexible Query Building](http://localhost:3000/notes/laravel-dynamic-filters)
-- [Laravel Ownership Package – Simplify Model Ownership in Laravel](http://localhost:3000/notes/laravel-ownership)
-- [Building a Clean and Consistent Laravel API Response System](http://localhost:3000/notes/laravel-api-response-system)
 <!-- BLOG-POST-LIST:END -->
 
 ---
